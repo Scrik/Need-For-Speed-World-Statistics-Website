@@ -1,0 +1,14 @@
+.tabulka {
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+}
+
+
+#bottom {
+width: 95%;
+position: fixed;
+bottom: 30px;
+height: 5%;
+margin-bottom:-30px;
+}
